@@ -1,7 +1,7 @@
 alias vim="nvim"
 alias nvim="nvim -u ~/.vimrc"
 alias ll="ls -lah"
-alias h="history"
+alias h="history | less"
 alias grep='grep --color=auto '
 alias cp='cp -i'
 alias mv='mv -i'
