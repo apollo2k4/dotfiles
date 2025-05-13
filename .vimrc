@@ -22,6 +22,7 @@ Plug 'AndrewRadev/linediff.vim'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 Plug 'morhetz/gruvbox'
+Plug 'folke/lazy'
 call plug#end()
 
 set nocompatible
