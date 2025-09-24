@@ -5,4 +5,4 @@ alias h="history | less"
 alias grep="rgrep --color=auto"
 alias cp='cp -i'
 alias mv='mv -i'
-alias lzd="lazydocker"
+alias lzd="sudo lazydocker"
