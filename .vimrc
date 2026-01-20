@@ -1,4 +1,5 @@
 call plug#begin()
+Plug 'powerman/ruscmd.nvim'
 Plug 'airblade/vim-gitgutter'
 Plug 'cespare/vim-toml'
 Plug 'easymotion/vim-easymotion'
