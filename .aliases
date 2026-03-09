@@ -6,3 +6,8 @@ alias grep="rgrep --color=auto"
 alias cp='cp -i'
 alias mv='mv -i'
 alias lzd="sudo lazydocker"
+#etckeeper
+alias etclog='cd /etc && sudo git log --oneline -20'
+alias etcdiff='cd /etc && sudo git diff'
+alias etcshow='cd /etc && sudo git show'
+alias etcstatus='cd /etc && sudo git status'
