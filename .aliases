@@ -1,11 +1,11 @@
-alias vim="nvim"
-alias nvim="nvim -u ~/.vimrc"
-alias ll="ls -lah"
-alias h="history | less"
-alias grep="rgrep --color=auto"
+alias vim='nvim -u ~/.vimrc'
+alias nvim='nvim -u ~/.vimrc'
+alias ll='ls -lah'
+alias h='history | less'
+alias grep='rgrep --color=auto'
 alias cp='cp -i'
 alias mv='mv -i'
-alias lzd="sudo lazydocker"
+alias lzd='sudo lazydocker'
 #etckeeper
 alias etclog='cd /etc && sudo git log --oneline -20'
 alias etcdiff='cd /etc && sudo git diff'
